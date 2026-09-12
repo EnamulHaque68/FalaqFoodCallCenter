@@ -114,11 +114,11 @@ npm test -- --watch=false
 
 ## 🔐 Default Demo Accounts
 
-| Role | Username | Password |
-| :--- | :--- | :--- |
-| **Admin** | `admin` | `Admin@123` |
-| **Supervisor** | `supervisor` | `Supervisor@123` |
-| **Agent** | `agent1` | `Agent@123` |
+| Role | Username | Password | Notes |
+| :--- | :--- | :--- | :--- |
+| **Admin** | `admin` | `ChangeMe123!` | System Administrator (Full privileges) |
+
+> 💡 *Additional Supervisor and Agent accounts can be created directly from the **User Management** screen after logging in as Admin.*
 
 ---
 
