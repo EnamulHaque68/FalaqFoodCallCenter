@@ -1,0 +1,68 @@
+## --------------------------------------------------
+## Node / Angular
+## --------------------------------------------------
+# Call recordings
+backend/src/CallCenter.Api/App_Data/Recordings/
+**/App_Data/Recordings/**
+*.wav
+*.mp3
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Angular build & cache
+frontend/dist/
+frontend/.angular/
+frontend/.angular/cache/
+dist/
+.angular/
+
+## --------------------------------------------------
+## .NET / C# / Visual Studio
+## --------------------------------------------------
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esults/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+.idea/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+
+# Roslyn analyzer cache
+*.Generated.cs
+
+# EF Core / SQL LocalDB files
+*.mdf
+*.ldf
+*.ndf
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+
+## --------------------------------------------------
+## OS & Environment
+## --------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+
+# Sensitive local configurations (uncomment if using private overrides)
+# appsettings.Development.json
+# appsettings.Local.json
