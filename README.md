@@ -1,7 +1,7 @@
 # FalaqFood Call Center Management System
 
 <p align="center">
-  <img src="docs/assets/falaqfood-call-center-banner.png" alt="FalaqFood Call Center Management System" width="100%" />
+  <img src="docs/assets/banner.html" alt="FalaqFood Call Center Management System" width="100%" />
 </p>
 
 <p align="center">
